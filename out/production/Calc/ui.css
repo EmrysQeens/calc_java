@@ -1,0 +1,10 @@
+@font-face{
+    src: url('b612.ttf')
+    font-family: b612;
+}
+
+Button,Label{
+    -fx-background-color: transparent;
+    -fx-font-family: b612;
+    -fx-text-fill: #ffffff;
+}
